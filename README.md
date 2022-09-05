@@ -27,4 +27,5 @@ neighboring rights to this work.
 
 | Name | Real/Synthetic | Description |
 |------|:--------------:|-------------|
-| [GeoMet](https://zenodo.org/record/7051975) | Real | Chemical analysis, comminution and flotation data as described in the paper [*Modeling geospatial uncertainty of geometallurgical variables with Bayesian models and Hilbert-Kriging*](https://link.springer.com/article/10.1007/s11004-022-10013-1) |
+| [GeoMet](https://zenodo.org/record/7051975) | Real | Chemical analysis, comminution and flotation data as described in the paper [*Modeling geospatial uncertainty of geometallurgical variables with Bayesian models and Hilbert-Kriging*](https://link.springer.com/article/10.1007/s11004-022-10013-1). |
+| [MineLib](http://mansci-web.uai.cl/minelib/Datasets.xhtml) | Synthetic | Block models provided by the MineLib research team.
