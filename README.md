@@ -12,9 +12,12 @@ All contributions are very welcome.
 
 ## Contributing
 
-Click on the [README.md](README.md) file and on the :pencil2: button for editing it.
-Please don't hesitate to [open an issue](https://github.com/juliohm/awesome-brazil-data/issues)
-if you have any questions. Give a star to the project and share it with your friends if possible.
+Click on the [README.md](README.md) file and on the :pencil2: button to start editing it.
+After you are done editing the file, commit your changes and submit a pull request.
+Please don't hesitate to [open an issue](https://github.com/juliohm/awesome-mining-data/issues)
+if you have any questions.
+
+Give a star to the project and share it with your colleagues if possible.
 
 ## License
 
@@ -25,7 +28,7 @@ neighboring rights to this work.
 
 # Datasets
 
-| Name | Real/Synthetic | Description |
-|------|:--------------:|-------------|
-| [GeoMet](https://zenodo.org/record/7051975) | Real | Chemical analysis, comminution and flotation data as described in the paper [*Modeling geospatial uncertainty of geometallurgical variables with Bayesian models and Hilbert-Kriging*](https://link.springer.com/article/10.1007/s11004-022-10013-1). |
-| [MineLib](http://mansci-web.uai.cl/minelib/Datasets.xhtml) | Synthetic | Block models provided by the MineLib research team.
+| Name | Real/Synthetic | Year | Description |
+|------|:--------------:|:----:|------------|
+| [GeoMet](https://zenodo.org/record/7051975) | Real | 2022 | Chemical analysis, comminution and flotation data as described in the paper [*Modeling geospatial uncertainty of geometallurgical variables with Bayesian models and Hilbert-Kriging*](https://link.springer.com/article/10.1007/s11004-022-10013-1). |
+| [MineLib](http://mansci-web.uai.cl/minelib/Datasets.xhtml) | Synthetic | &mdash; | Block models provided by the MineLib research team.
