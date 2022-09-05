@@ -17,8 +17,8 @@ After you are done editing the file, commit your changes and submit a pull reque
 Please don't hesitate to [open an issue](https://github.com/juliohm/awesome-mining-data/issues)
 if you have any questions.
 
-If you would like to help support the project, please star the repository [![STARS](https://img.shields.io/github/stars/juliohm/awesome-mining-data?style=social)](https://github.com/juliohm/awesome-mining-data) and share it
-with your colleagues.
+If you would like to help support the project, please star the repository
+[![STARS][stars-img]][stars-url] and share it with your colleagues.
 
 ## License
 
@@ -33,3 +33,6 @@ neighboring rights to this work.
 |------|:--------------:|:----:|------------|
 | [GeoMet](https://zenodo.org/record/7051975) | Real | 2022 | Chemical analysis, comminution and flotation data as described in the paper [*Modeling geospatial uncertainty of geometallurgical variables with Bayesian models and Hilbert-Kriging*](https://link.springer.com/article/10.1007/s11004-022-10013-1). |
 | [MineLib](http://mansci-web.uai.cl/minelib/Datasets.xhtml) | Synthetic | &mdash; | Block models provided by the MineLib research team.
+
+[stars-img]: https://img.shields.io/github/stars/juliohm/awesome-mining-data?style=social
+[stars-url]: https://github.com/juliohm/awesome-mining-data
