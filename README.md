@@ -29,6 +29,8 @@ neighboring rights to this work.
 
 # Datasets
 
+If you find a dataset useful in your work, please consider citing it.
+
 | Name | Real/Synthetic | Year | Description |
 |------|:--------------:|:----:|------------|
 | [GeoMet](https://zenodo.org/record/7051975) | Real | 2022 | Chemical analysis, comminution and flotation data as described in the paper [*Modeling geospatial uncertainty of geometallurgical variables with Bayesian models and Hilbert-Kriging*](https://link.springer.com/article/10.1007/s11004-022-10013-1). |
