@@ -37,6 +37,7 @@ If you find a dataset useful in your work, please consider citing it.
 | [Lisheen](http://www.mineralsireland.ie/MiningInIreland/LisheenMineDataRelease.htm) | Real | 2015 | Geological, geotechnical, planning and closure data. |
 | [Galmoy](http://www.mineralsireland.ie/MiningInIreland/GalmoyMineDataRelease.htm) | Real | 2012 | Geological, groundwater, mining and closure data. |
 | [Porphyry](https://github.com/exepulveda/geomet_datasets) | Synthetic | 2020 | Drillholes, mineralogy, grindability and block model as described in the paper [*Simulation of Synthetic Exploration and Geometallurgical Database of Porphyry Copper Deposits for Educational Purposes*](https://link.springer.com/article/10.1007/s11053-020-09692-6). |
+| [pygslib](https://github.com/opengeostat/pygslib-tutorials/tree/master/datasets) | Synthetic | 2019 | Collar, survey, assay data provided by the pygslib team. |
 | [MineLib](http://mansci-web.uai.cl/minelib/Datasets.xhtml) | Synthetic | &mdash; | Block models provided by the MineLib research team. |
 
 [stars-img]: https://img.shields.io/github/stars/juliohm/awesome-mining-data?style=social
