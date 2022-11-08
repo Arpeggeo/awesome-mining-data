@@ -40,6 +40,7 @@ If you find a dataset useful in your work, please consider citing it.
 | [pygslib](https://github.com/opengeostat/pygslib-tutorials/tree/master/datasets) | Synthetic | 2019 | Collar, survey, assay data provided by the pygslib team. |
 | [MineLib](http://mansci-web.uai.cl/minelib/Datasets.xhtml) | Synthetic | &mdash; | Block models provided by the MineLib research team. |
 | [X-Dana](http://mineralsocal.org/398-2) | Synthetic | &mdash; | Mineral database with chemical formula, crystal system and more. |
+| [IMA](https://rruff.info/ima) | Synthetic | &mdash; | Mineral database by the International Mineral Association (IMA). |
 
 [stars-img]: https://img.shields.io/github/stars/juliohm/awesome-mining-data?style=social
 [stars-url]: https://github.com/juliohm/awesome-mining-data
