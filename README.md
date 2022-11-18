@@ -39,6 +39,7 @@ If you find a dataset useful in your work, please consider citing it.
 | [Porphyry](https://github.com/exepulveda/geomet_datasets) | Synthetic | 2020 | Drillholes, mineralogy, grindability and block model as described in the paper [*Simulation of Synthetic Exploration and Geometallurgical Database of Porphyry Copper Deposits for Educational Purposes*](https://link.springer.com/article/10.1007/s11053-020-09692-6). |
 | [pygslib](https://github.com/opengeostat/pygslib-tutorials/tree/master/datasets) | Synthetic | 2019 | Collar, survey, assay data provided by the pygslib team. |
 | [MineLib](http://mansci-web.uai.cl/minelib/Datasets.xhtml) | Synthetic | &mdash; | Block models provided by the MineLib research team. |
+| [WAEGO](https://wamexgeochem.net.au) | Real | &mdash; | Downhole and surface assays by the Western Australia Exploration Geochemistry. |
 | [IMA](https://rruff.info/ima) | Synthetic | &mdash; | Mineral database by the International Mineral Association (IMA). |
 | [X-Dana](http://mineralsocal.org/398-2) | Synthetic | 2021 | Mineral database with chemical formula, crystal system and more. |
 | [Webmineral](http://webmineral.com) | Synthetic | 1996 | Mineral database with photographs. |
