@@ -43,6 +43,7 @@ If you find a dataset useful in your work, please consider citing it.
 | [IMA](https://rruff.info/ima) | Synthetic | &mdash; | Mineral database by the International Mineral Association (IMA). |
 | [X-Dana](http://mineralsocal.org/398-2) | Synthetic | 2021 | Mineral database with chemical formula, crystal system and more. |
 | [Webmineral](http://webmineral.com) | Synthetic | 1996 | Mineral database with photographs. |
+| [Stanford VI-E](https://github.com/SCRFpublic/Stanford-VI-E) | Synthetic | 2012 | A large-scale data set including time-lapse (4D) elastic attributes and electrical resistivity is generated with the purpose of testing algorithms for reservoir modeling, reservoir characterization, production forecasting, and especially joint time-lapse monitoring using seismic as well as electromagnetic data. |
 
 [stars-img]: https://img.shields.io/github/stars/juliohm/awesome-mining-data?style=social
 [stars-url]: https://github.com/juliohm/awesome-mining-data
