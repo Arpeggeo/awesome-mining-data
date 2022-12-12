@@ -40,6 +40,7 @@ If you find a dataset useful in your work, please consider citing it.
 | [pygslib](https://github.com/opengeostat/pygslib-tutorials/tree/master/datasets) | Synthetic | 2019 | Collar, survey, assay data provided by the pygslib team. |
 | [MineLib](http://mansci-web.uai.cl/minelib/Datasets.xhtml) | Synthetic | &mdash; | Block models provided by the MineLib research team. |
 | [WAEGO](https://wamexgeochem.net.au) | Real | &mdash; | Downhole and surface assays by the Western Australia Exploration Geochemistry. |
+| [WACHEM](https://www.dmp.wa.gov.au/GeoChem-Extract-Geochemistry-1559.aspx) | Real | &mdash; | Multi-element geochemical data by the Western Australia Exploration Geochemistry. |
 | [IMA](https://rruff.info/ima) | Synthetic | &mdash; | Mineral database by the International Mineral Association (IMA). |
 | [X-Dana](http://mineralsocal.org/398-2) | Synthetic | 2021 | Mineral database with chemical formula, crystal system and more. |
 | [Webmineral](http://webmineral.com) | Synthetic | 1996 | Mineral database with photographs. |
