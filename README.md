@@ -33,6 +33,7 @@ If you find a dataset useful in your work, please consider citing it.
 
 | Name | Real/Synthetic | Year | Description |
 |------|:--------------:|:----:|------------|
+| [Thalanga](https://geoscience.data.qld.gov.au/dataset/ds100103) | Real | 2024 | Drilling, geology, geophysics at local and regional scale. |
 | [GeoMet](https://zenodo.org/record/7051975) | Real | 2022 | Chemical analysis, comminution and flotation data as described in the paper [*Modeling geospatial uncertainty of geometallurgical variables with Bayesian models and Hilbert-Kriging*](https://link.springer.com/article/10.1007/s11004-022-10013-1). |
 | [Macpass](https://fireweedmetals.com/macpass-disclaimer) | Real | 2023 | Drillholes and topography data as described in the [project webpage](https://fireweedmetals.com/macpass-project). |
 | [Lisheen](http://www.mineralsireland.ie/MiningInIreland/LisheenMineDataRelease.htm) | Real | 2015 | Geological, geotechnical, planning and closure data. |
