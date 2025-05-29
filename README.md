@@ -46,6 +46,8 @@ If you find a dataset useful in your work, please consider citing it.
 | [IMA](https://rruff.info/ima) | Synthetic | &mdash; | Mineral database by the International Mineral Association (IMA). |
 | [X-Dana](http://mineralsocal.org/398-2) | Synthetic | 2021 | Mineral database with chemical formula, crystal system and more. |
 | [Webmineral](http://webmineral.com) | Synthetic | 1996 | Mineral database with photographs. |
+| [SARIG](https://map.sarig.sa.gov.au/MapViewer/StartUp/?siteParams=SpatialSearchWidget) | Real | Live | South Australia Drilling and Geochemistry |
+| [QLD Exploration Geochemistry Data](https://www.business.qld.gov.au/industries/mining-energy-water/resources/geoscience-information/maps-datasets/digital-data/exploration-geochemistry) | Real | Live | Queensland Australia Geochemistry Database Download |
 
 [stars-img]: https://img.shields.io/github/stars/juliohm/awesome-mining-data?style=social
 [stars-url]: https://github.com/juliohm/awesome-mining-data
